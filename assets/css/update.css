@@ -1,0 +1,38 @@
+
+.Update{
+  background-color: gray;
+  height: 800px;
+  top:0;
+  z-index: 200;
+  position: sticky;
+  opacity: 90%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.UpdateContent{
+  color: black;
+  font-size: 40px;
+  background-color: white;
+  padding: 10px;
+  border-radius: 15px;
+  margin-bottom: 50px;
+}
+
+.UpdateContent2{
+  color: black;
+  font-size: 20px;
+  margin-top: 50px;
+  background-color: white;
+  padding: 10px;
+  border-radius: 15px;
+  margin-bottom: 100px;
+}
+
+.UpdateContent3{
+  background-color: white;
+  padding: 50px;
+  border-radius: 15px;
+}
